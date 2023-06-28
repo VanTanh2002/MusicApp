@@ -1,0 +1,660 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:145:9-153:20
+	android:grantUriPermissions
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:149:13-47
+	android:authorities
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:147:13-51
+	android:exported
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:148:13-37
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:146:13-62
+manifest
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\fee3dc7a1b3154282cba0afa562e65bb\transformed\databinding-adapters-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\da38c135858f56f82f360e5f7da3f660\transformed\jetified-databinding-ktx-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\ec1dab2f89a85ff726beaf96d33b9692\transformed\databinding-runtime-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\ff1da310b469fcea513c782e46ab3731\transformed\jetified-viewbinding-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\HP\.gradle\caches\transforms-3\72411066dd805b91bcce3629acbe0957\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.heinrichreimersoftware:material-intro:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\f1475d929913a6aaa9cfa5a26e1833ad\transformed\jetified-material-intro-2.0.0\AndroidManifest.xml:25:1-34:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\transforms-3\a0c798fe7a8658f32d2139d7a2790b3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\5806fa13174860e74160b37721441a9b\transformed\jetified-commons-0.9.6.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\028ee54fe7ed8bee7d2e23bf7605a963\transformed\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.afollestad:material-cab:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\61ef38aba6fa8b0b6372e2ae516ed0b0\transformed\jetified-material-cab-2.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\HP\.gradle\caches\transforms-3\e692f69e3ff18b602fc550e10045ed6d\transformed\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:25:1-37:12
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] C:\Users\HP\.gradle\caches\transforms-3\61fbc312f16d234e9c08e68a10f1a47b\transformed\jetified-advrecyclerview-0.11.0\AndroidManifest.xml:17:1-27:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\HP\.gradle\caches\transforms-3\5473d508ef677f251f0ba06a65f48b20\transformed\jetified-library-1.6.1\AndroidManifest.xml:6:1-15:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\ba5ca8a548518b09334910fe63d00774\transformed\jetified-appcompat-resources-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference-ktx:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\7fe244dfca5ac8b440470b83bfad2797\transformed\jetified-preference-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\bbd591e458acf5e12a515d8de4feca78\transformed\preference-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\196eab70d0c75feb91df9b7253b12ac1\transformed\appcompat-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\HP\.gradle\caches\transforms-3\36199c5a6de244d478b35b1ea0fa90e6\transformed\jetified-fragment-ktx-1.5.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9d9dcb6ebd45308ea433cb44421c77fd\transformed\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\588debe16b7ff4ac6d39d30b7bba4fb2\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\ce2f28d734b173d5c9666e32932698e8\transformed\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] C:\Users\HP\.gradle\caches\transforms-3\5470c4368eee0629d53b44d07bce9e81\transformed\jetified-RecyclerView-FastScroll-1.0.16-kmod\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:6] C:\Users\HP\.gradle\caches\transforms-3\21dd1a4e646a523967f2c59e6185ddbf\transformed\jetified-AndroidSlidingUpPanel-6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\f0d923b7a490363c9995b0f85ff1698e\transformed\jetified-android-observablescrollview-1.6.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e5c5a06c7d8c9f785ee338a1282d49d2\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\HP\.gradle\caches\transforms-3\17770247793f55b065e813ecae31359a\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
+MERGED from [io.noties.markwon:image-glide:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\5a012f993d6078d9370f749eb31e9634\transformed\jetified-image-glide-4.6.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\53ce65bf58ea650b753d2acaba8827c3\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\HP\.gradle\caches\transforms-3\37beb3de037e9a971c74d483cedef3ca\transformed\fragment-1.5.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\fac09644ef25eb31979edd361f0b8c66\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\12b209e70d8dd91ec38331a40c506b91\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\ce7c7fd018d4c60dc15533dc529e0b66\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\34060ff069d27b398a1362b8a6572a45\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette-ktx:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9c10744a90b868b7b3ab1e94d5cb4124\transformed\jetified-palette-ktx-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\53aa3fd916326bad2b242492d092105e\transformed\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\f96181907f446501831e36c9cdff8259\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\5c7f57e4e90ccf27376bfb638d3476a5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e002a6f47f77028a5ef36edae22a9635\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\1934cb99efc7e78978522eb0d82c3f14\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\479596db1712746ea759fa41fc1c8966\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\4e94a7290ce0a4514501fc1823b8c9ca\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\4d0154530992277b401b3d16a37e8db9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e027f383c19e37cfa15ea9b2abef5ae9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\62844757304779df3617979eb8cd641d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\5b3aae1fe80eb41a7cd6b068146c5619\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\000fc20db324e579cb173bd2e57af7ec\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\ce433a988347810c81f753aacc6a007e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\HP\.gradle\caches\transforms-3\ded04ed20d814edc2c462c3c78300f5c\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\1180b423ef157fd311406feda3a041fe\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\48163791be7cf47ed8a31b393e169c84\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\13a19a6fb707347390c6abbe85a154e9\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\cdfd6bd4c11f17bbc763545e852c390b\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.noties.markwon:linkify:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\3b52909d95e8de915fd293636c55ba13\transformed\jetified-linkify-4.6.2\AndroidManifest.xml:2:1-11:12
+MERGED from [io.noties.markwon:core:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\79b604bcba1322d157ee9c2decf3f088\transformed\jetified-core-4.6.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\HP\.gradle\caches\transforms-3\ba9436ec59fe744d0ebe6f817afc3b24\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\955d5429165a92dd7bd57e61f04dbb2f\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\5f6d1fd4b3d76da732b585bdb4b30c74\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\94ec687e8e9848e51860489131cfba1f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\ce91e36e4d43dfd6ac42361606c75587\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\c203b7c0e85695dd916769fafa8d062a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\939fa13f54cd981476365d188f2eeeaa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\91ba4963abd085d4a6e42df4571fedb1\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9bc8f8f4d5ff82345766cbb88a6d5542\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\c68fb1fddfa51474da982e1d3c9bbcb8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\HP\.gradle\caches\transforms-3\bcde7ca72da885435fd34e20474e2b45\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\96186de28f165f945a099db31c247578\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\0447b0eba00bf1fc6d7e99671a23c7ef\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-3\4bed2988069f8ca8afe8874042c58b4a\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\b7c4c10bdbdcde42bf89b3339375adb6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\7b87142e9214997dbe3e56317bbbaab2\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e9b67feac4002527cef9b9ac7b5e9227\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\a7eee12c96b17fceb1b9cdb99c87d499\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\c8204d66b76733b317050a8fff2da833\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\ad66550273377ac27095c267fcb2b28f\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HP\.gradle\caches\transforms-3\252769a26eb19c175a8fb7c3d6bdfdfd\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+	package
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:1-167:12
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:11:5-12:47
+	tools:ignore
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:12:9-44
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:14:22-74
+application
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:16:5-165:19
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\HP\.gradle\caches\transforms-3\72411066dd805b91bcce3629acbe0957\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\HP\.gradle\caches\transforms-3\72411066dd805b91bcce3629acbe0957\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\transforms-3\a0c798fe7a8658f32d2139d7a2790b3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\transforms-3\a0c798fe7a8658f32d2139d7a2790b3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\5806fa13174860e74160b37721441a9b\transformed\jetified-commons-0.9.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\5806fa13174860e74160b37721441a9b\transformed\jetified-commons-0.9.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\028ee54fe7ed8bee7d2e23bf7605a963\transformed\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\028ee54fe7ed8bee7d2e23bf7605a963\transformed\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad:material-cab:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\61ef38aba6fa8b0b6372e2ae516ed0b0\transformed\jetified-material-cab-2.0.1\AndroidManifest.xml:11:5-20
+MERGED from [com.afollestad:material-cab:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\61ef38aba6fa8b0b6372e2ae516ed0b0\transformed\jetified-material-cab-2.0.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\HP\.gradle\caches\transforms-3\e692f69e3ff18b602fc550e10045ed6d\transformed\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:35:5-20
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\HP\.gradle\caches\transforms-3\e692f69e3ff18b602fc550e10045ed6d\transformed\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:35:5-20
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:6] C:\Users\HP\.gradle\caches\transforms-3\21dd1a4e646a523967f2c59e6185ddbf\transformed\jetified-AndroidSlidingUpPanel-6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:6] C:\Users\HP\.gradle\caches\transforms-3\21dd1a4e646a523967f2c59e6185ddbf\transformed\jetified-AndroidSlidingUpPanel-6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\53ce65bf58ea650b753d2acaba8827c3\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\53ce65bf58ea650b753d2acaba8827c3\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\939fa13f54cd981476365d188f2eeeaa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\939fa13f54cd981476365d188f2eeeaa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\91ba4963abd085d4a6e42df4571fedb1\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\91ba4963abd085d4a6e42df4571fedb1\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:25:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:20:9-41
+	android:resizeableActivity
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:24:9-42
+	tools:ignore
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:26:9-39
+	android:roundIcon
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:21:9-51
+	android:icon
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:19:9-40
+	android:allowBackup
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:23:9-60
+	android:fullBackupOnly
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:17:9-54
+activity#com.poupa.vinylmusicplayer.ui.activities.MainActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:28:9-101:20
+	android:label
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:30:13-51
+	android:exported
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:28:19-87
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.MUSIC_PLAYER+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:32:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:33:25-66
+action#android.intent.action.MUSIC_PLAYER
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:34:25-74
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:36:27-74
+category#android.intent.category.APP_MUSIC
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:37:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:38:27-73
+intent-filter#action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:41:17-86
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:41:25-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:45:13-55:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:46:25-66
+data
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:50:17-50
+	android:scheme
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:50:23-47
+	android:mimeType
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:51:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:56:13-66:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:67:13-78:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:71:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/albums+data:mimeType:vnd.android.cursor.dir/artists+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:79:13-87:29
+	tools:ignore
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:79:28-58
+intent-filter#action:name:com.cyanogenmod.eleven.AUDIO_PLAYER+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:88:13-92:29
+action#com.cyanogenmod.eleven.AUDIO_PLAYER
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:89:17-78
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:89:25-75
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/audio
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:93:13-100:29
+action#android.intent.action.PICK
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:94:17-69
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:94:25-66
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:97:27-74
+activity#com.poupa.vinylmusicplayer.ui.activities.AlbumDetailActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:102:9-97
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:102:19-94
+activity#com.poupa.vinylmusicplayer.ui.activities.ArtistDetailActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:103:9-98
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:103:19-95
+activity#com.poupa.vinylmusicplayer.ui.activities.GenreDetailActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:104:9-97
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:104:19-94
+activity#com.poupa.vinylmusicplayer.ui.activities.PlaylistDetailActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:105:9-100
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:105:19-97
+activity#com.poupa.vinylmusicplayer.ui.activities.tageditor.SongTagEditorActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:106:9-108:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:108:13-55
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:107:13-100
+activity#com.poupa.vinylmusicplayer.ui.activities.tageditor.AlbumTagEditorActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:109:9-111:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:111:13-55
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:110:13-101
+activity#com.poupa.vinylmusicplayer.ui.activities.SearchActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:112:9-92
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:112:19-89
+activity#com.poupa.vinylmusicplayer.ui.activities.saf.SAFGuideActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:113:9-115:49
+	android:theme
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:115:13-47
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:114:13-63
+activity#com.poupa.vinylmusicplayer.appshortcuts.AppShortcutLauncherActivity
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:116:9-119:75
+	android:launchMode
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:118:13-48
+	android:theme
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:119:13-72
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:117:13-95
+service#com.poupa.vinylmusicplayer.service.MusicService
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:121:9-129:19
+	android:enabled
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:123:13-35
+	android:label
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:124:13-45
+	android:exported
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:125:13-36
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:122:13-75
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:126:13-128:29
+action#android.media.browse.MediaBrowserService
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:127:17-82
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:127:25-80
+receiver#com.poupa.vinylmusicplayer.service.MediaButtonIntentReceiver
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:131:9-136:20
+	android:exported
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:132:13-36
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:131:19-94
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:133:13-135:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:134:17-77
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:134:25-74
+meta-data#android.max_aspect
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:138:9-140:35
+	android:value
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:140:13-32
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:139:13-46
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:141:9-143:36
+	android:value
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:143:13-33
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:142:13-56
+meta-data#com.google.android.gms.car.application
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:155:9-157:58
+	android:resource
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:157:13-56
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:156:13-66
+meta-data#com.google.android.gms.car.application.theme
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:158:9-160:50
+	android:resource
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:160:13-47
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:159:13-72
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:161:9-163:59
+	android:resource
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:163:13-57
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:162:13-77
+uses-sdk
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\fee3dc7a1b3154282cba0afa562e65bb\transformed\databinding-adapters-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\fee3dc7a1b3154282cba0afa562e65bb\transformed\databinding-adapters-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\da38c135858f56f82f360e5f7da3f660\transformed\jetified-databinding-ktx-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\da38c135858f56f82f360e5f7da3f660\transformed\jetified-databinding-ktx-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\ec1dab2f89a85ff726beaf96d33b9692\transformed\databinding-runtime-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\ec1dab2f89a85ff726beaf96d33b9692\transformed\databinding-runtime-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\ff1da310b469fcea513c782e46ab3731\transformed\jetified-viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\HP\.gradle\caches\transforms-3\ff1da310b469fcea513c782e46ab3731\transformed\jetified-viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\HP\.gradle\caches\transforms-3\72411066dd805b91bcce3629acbe0957\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\HP\.gradle\caches\transforms-3\72411066dd805b91bcce3629acbe0957\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.heinrichreimersoftware:material-intro:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\f1475d929913a6aaa9cfa5a26e1833ad\transformed\jetified-material-intro-2.0.0\AndroidManifest.xml:30:5-32:41
+MERGED from [com.heinrichreimersoftware:material-intro:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\f1475d929913a6aaa9cfa5a26e1833ad\transformed\jetified-material-intro-2.0.0\AndroidManifest.xml:30:5-32:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\transforms-3\a0c798fe7a8658f32d2139d7a2790b3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\HP\.gradle\caches\transforms-3\a0c798fe7a8658f32d2139d7a2790b3f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\5806fa13174860e74160b37721441a9b\transformed\jetified-commons-0.9.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\5806fa13174860e74160b37721441a9b\transformed\jetified-commons-0.9.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\028ee54fe7ed8bee7d2e23bf7605a963\transformed\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\028ee54fe7ed8bee7d2e23bf7605a963\transformed\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad:material-cab:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\61ef38aba6fa8b0b6372e2ae516ed0b0\transformed\jetified-material-cab-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad:material-cab:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\61ef38aba6fa8b0b6372e2ae516ed0b0\transformed\jetified-material-cab-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\HP\.gradle\caches\transforms-3\e692f69e3ff18b602fc550e10045ed6d\transformed\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:31:5-33:41
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\HP\.gradle\caches\transforms-3\e692f69e3ff18b602fc550e10045ed6d\transformed\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:31:5-33:41
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] C:\Users\HP\.gradle\caches\transforms-3\61fbc312f16d234e9c08e68a10f1a47b\transformed\jetified-advrecyclerview-0.11.0\AndroidManifest.xml:23:5-25:41
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] C:\Users\HP\.gradle\caches\transforms-3\61fbc312f16d234e9c08e68a10f1a47b\transformed\jetified-advrecyclerview-0.11.0\AndroidManifest.xml:23:5-25:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\HP\.gradle\caches\transforms-3\5473d508ef677f251f0ba06a65f48b20\transformed\jetified-library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\HP\.gradle\caches\transforms-3\5473d508ef677f251f0ba06a65f48b20\transformed\jetified-library-1.6.1\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\ba5ca8a548518b09334910fe63d00774\transformed\jetified-appcompat-resources-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\ba5ca8a548518b09334910fe63d00774\transformed\jetified-appcompat-resources-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference-ktx:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\7fe244dfca5ac8b440470b83bfad2797\transformed\jetified-preference-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\7fe244dfca5ac8b440470b83bfad2797\transformed\jetified-preference-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\bbd591e458acf5e12a515d8de4feca78\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\bbd591e458acf5e12a515d8de4feca78\transformed\preference-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\196eab70d0c75feb91df9b7253b12ac1\transformed\appcompat-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\196eab70d0c75feb91df9b7253b12ac1\transformed\appcompat-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\HP\.gradle\caches\transforms-3\36199c5a6de244d478b35b1ea0fa90e6\transformed\jetified-fragment-ktx-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\HP\.gradle\caches\transforms-3\36199c5a6de244d478b35b1ea0fa90e6\transformed\jetified-fragment-ktx-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9d9dcb6ebd45308ea433cb44421c77fd\transformed\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9d9dcb6ebd45308ea433cb44421c77fd\transformed\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\588debe16b7ff4ac6d39d30b7bba4fb2\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\588debe16b7ff4ac6d39d30b7bba4fb2\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\ce2f28d734b173d5c9666e32932698e8\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\ce2f28d734b173d5c9666e32932698e8\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] C:\Users\HP\.gradle\caches\transforms-3\5470c4368eee0629d53b44d07bce9e81\transformed\jetified-RecyclerView-FastScroll-1.0.16-kmod\AndroidManifest.xml:7:5-44
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] C:\Users\HP\.gradle\caches\transforms-3\5470c4368eee0629d53b44d07bce9e81\transformed\jetified-RecyclerView-FastScroll-1.0.16-kmod\AndroidManifest.xml:7:5-44
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:6] C:\Users\HP\.gradle\caches\transforms-3\21dd1a4e646a523967f2c59e6185ddbf\transformed\jetified-AndroidSlidingUpPanel-6\AndroidManifest.xml:7:5-44
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:6] C:\Users\HP\.gradle\caches\transforms-3\21dd1a4e646a523967f2c59e6185ddbf\transformed\jetified-AndroidSlidingUpPanel-6\AndroidManifest.xml:7:5-44
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\f0d923b7a490363c9995b0f85ff1698e\transformed\jetified-android-observablescrollview-1.6.0\AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\f0d923b7a490363c9995b0f85ff1698e\transformed\jetified-android-observablescrollview-1.6.0\AndroidManifest.xml:21:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e5c5a06c7d8c9f785ee338a1282d49d2\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e5c5a06c7d8c9f785ee338a1282d49d2\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\HP\.gradle\caches\transforms-3\17770247793f55b065e813ecae31359a\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\HP\.gradle\caches\transforms-3\17770247793f55b065e813ecae31359a\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.noties.markwon:image-glide:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\5a012f993d6078d9370f749eb31e9634\transformed\jetified-image-glide-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:image-glide:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\5a012f993d6078d9370f749eb31e9634\transformed\jetified-image-glide-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\53ce65bf58ea650b753d2acaba8827c3\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\53ce65bf58ea650b753d2acaba8827c3\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\HP\.gradle\caches\transforms-3\37beb3de037e9a971c74d483cedef3ca\transformed\fragment-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\HP\.gradle\caches\transforms-3\37beb3de037e9a971c74d483cedef3ca\transformed\fragment-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\fac09644ef25eb31979edd361f0b8c66\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\fac09644ef25eb31979edd361f0b8c66\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\12b209e70d8dd91ec38331a40c506b91\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\12b209e70d8dd91ec38331a40c506b91\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\ce7c7fd018d4c60dc15533dc529e0b66\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\ce7c7fd018d4c60dc15533dc529e0b66\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\34060ff069d27b398a1362b8a6572a45\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\34060ff069d27b398a1362b8a6572a45\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette-ktx:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9c10744a90b868b7b3ab1e94d5cb4124\transformed\jetified-palette-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette-ktx:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9c10744a90b868b7b3ab1e94d5cb4124\transformed\jetified-palette-ktx-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\53aa3fd916326bad2b242492d092105e\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\53aa3fd916326bad2b242492d092105e\transformed\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\f96181907f446501831e36c9cdff8259\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\f96181907f446501831e36c9cdff8259\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\5c7f57e4e90ccf27376bfb638d3476a5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\5c7f57e4e90ccf27376bfb638d3476a5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e002a6f47f77028a5ef36edae22a9635\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e002a6f47f77028a5ef36edae22a9635\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\1934cb99efc7e78978522eb0d82c3f14\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\1934cb99efc7e78978522eb0d82c3f14\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\479596db1712746ea759fa41fc1c8966\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\479596db1712746ea759fa41fc1c8966\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\4e94a7290ce0a4514501fc1823b8c9ca\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\4e94a7290ce0a4514501fc1823b8c9ca\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\4d0154530992277b401b3d16a37e8db9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\4d0154530992277b401b3d16a37e8db9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e027f383c19e37cfa15ea9b2abef5ae9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e027f383c19e37cfa15ea9b2abef5ae9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\62844757304779df3617979eb8cd641d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\62844757304779df3617979eb8cd641d\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\5b3aae1fe80eb41a7cd6b068146c5619\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\5b3aae1fe80eb41a7cd6b068146c5619\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\000fc20db324e579cb173bd2e57af7ec\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\000fc20db324e579cb173bd2e57af7ec\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\ce433a988347810c81f753aacc6a007e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\ce433a988347810c81f753aacc6a007e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\HP\.gradle\caches\transforms-3\ded04ed20d814edc2c462c3c78300f5c\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\HP\.gradle\caches\transforms-3\ded04ed20d814edc2c462c3c78300f5c\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\1180b423ef157fd311406feda3a041fe\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\1180b423ef157fd311406feda3a041fe\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\48163791be7cf47ed8a31b393e169c84\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\48163791be7cf47ed8a31b393e169c84\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\13a19a6fb707347390c6abbe85a154e9\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\13a19a6fb707347390c6abbe85a154e9\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\cdfd6bd4c11f17bbc763545e852c390b\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\cdfd6bd4c11f17bbc763545e852c390b\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [io.noties.markwon:linkify:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\3b52909d95e8de915fd293636c55ba13\transformed\jetified-linkify-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:linkify:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\3b52909d95e8de915fd293636c55ba13\transformed\jetified-linkify-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:core:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\79b604bcba1322d157ee9c2decf3f088\transformed\jetified-core-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [io.noties.markwon:core:4.6.2] C:\Users\HP\.gradle\caches\transforms-3\79b604bcba1322d157ee9c2decf3f088\transformed\jetified-core-4.6.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\HP\.gradle\caches\transforms-3\ba9436ec59fe744d0ebe6f817afc3b24\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\HP\.gradle\caches\transforms-3\ba9436ec59fe744d0ebe6f817afc3b24\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\955d5429165a92dd7bd57e61f04dbb2f\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\955d5429165a92dd7bd57e61f04dbb2f\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\5f6d1fd4b3d76da732b585bdb4b30c74\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\5f6d1fd4b3d76da732b585bdb4b30c74\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\94ec687e8e9848e51860489131cfba1f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\94ec687e8e9848e51860489131cfba1f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\ce91e36e4d43dfd6ac42361606c75587\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\ce91e36e4d43dfd6ac42361606c75587\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\c203b7c0e85695dd916769fafa8d062a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\c203b7c0e85695dd916769fafa8d062a\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\939fa13f54cd981476365d188f2eeeaa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\939fa13f54cd981476365d188f2eeeaa\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\91ba4963abd085d4a6e42df4571fedb1\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\91ba4963abd085d4a6e42df4571fedb1\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9bc8f8f4d5ff82345766cbb88a6d5542\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9bc8f8f4d5ff82345766cbb88a6d5542\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\c68fb1fddfa51474da982e1d3c9bbcb8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\c68fb1fddfa51474da982e1d3c9bbcb8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\HP\.gradle\caches\transforms-3\bcde7ca72da885435fd34e20474e2b45\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\HP\.gradle\caches\transforms-3\bcde7ca72da885435fd34e20474e2b45\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\96186de28f165f945a099db31c247578\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\96186de28f165f945a099db31c247578\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\0447b0eba00bf1fc6d7e99671a23c7ef\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\HP\.gradle\caches\transforms-3\0447b0eba00bf1fc6d7e99671a23c7ef\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-3\4bed2988069f8ca8afe8874042c58b4a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-3\4bed2988069f8ca8afe8874042c58b4a\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\b7c4c10bdbdcde42bf89b3339375adb6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\b7c4c10bdbdcde42bf89b3339375adb6\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\7b87142e9214997dbe3e56317bbbaab2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\7b87142e9214997dbe3e56317bbbaab2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e9b67feac4002527cef9b9ac7b5e9227\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\e9b67feac4002527cef9b9ac7b5e9227\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\a7eee12c96b17fceb1b9cdb99c87d499\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\a7eee12c96b17fceb1b9cdb99c87d499\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\c8204d66b76733b317050a8fff2da833\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\c8204d66b76733b317050a8fff2da833\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\ad66550273377ac27095c267fcb2b28f\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\HP\.gradle\caches\transforms-3\ad66550273377ac27095c267fcb2b28f\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HP\.gradle\caches\transforms-3\252769a26eb19c175a8fb7c3d6bdfdfd\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\HP\.gradle\caches\transforms-3\252769a26eb19c175a8fb7c3d6bdfdfd\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\HP\.gradle\caches\transforms-3\028ee54fe7ed8bee7d2e23bf7605a963\transformed\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:150:13-152:58
+	android:resource
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:152:17-55
+	android:name
+		ADDED from C:\Users\HP\OneDrive\Desktop\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\TTCM_CNTTK61_6151071096_LUONGVANTANH\app\src\main\AndroidManifest.xml:151:17-67
+activity#com.kabouzeid.appthemehelper.common.ATHToolbarActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:12:9-91
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:12:19-88
+activity#com.kabouzeid.appthemehelper.ATHActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:13:9-77
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:13:19-74
+activity#com.kabouzeid.appthemehelper.common.ATHActionBarActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:14:9-93
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\HP\.gradle\caches\transforms-3\f1e5a56d6a0121e55483941a77264ddc\transformed\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:14:19-90
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\HP\.gradle\caches\transforms-3\2e2dbad175810fc0f99bbef51e926990\transformed\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\529235e93d7faf4045769e49a16fb1c7\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\10f2700e7b3078541154bb7c70e29c4b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\3d0bb9fa26d84a13244ab4b3fd41f91d\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.poupa.vinylmusicplayer.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.poupa.vinylmusicplayer.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\HP\.gradle\caches\transforms-3\2846840369d73bcfdf8ef8353976dbc0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\HP\.gradle\caches\transforms-3\b247ab75fb6e4d4617d36e812332847a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

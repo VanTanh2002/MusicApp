@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.poupa.vinylmusicplayer.app-mergeCiDebugResources-55:/values-vi-rVN/values-vi-rVN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP\\.gradle\\caches\\transforms-3\\f1475d929913a6aaa9cfa5a26e1833ad\\transformed\\jetified-material-intro-2.0.0\\res\\values-vi-rVN\\values-vi-rVN.xml",
+                    "from": {
+                        "startLines": "2,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,229,293,358,439,502",
+                        "endLines": "5,6,7,8,9,10",
+                        "endColumns": "14,63,64,80,62,55",
+                        "endOffsets": "224,288,353,434,497,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

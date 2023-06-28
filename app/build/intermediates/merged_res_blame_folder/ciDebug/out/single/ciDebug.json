@@ -1,0 +1,766 @@
+[
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_song_tag_editor.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_song_tag_editor.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_expand_less_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_expand_less_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_tutorial_queue_swipe_up.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/tutorial_queue_swipe_up.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_pause_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_pause_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_repeat_one_white_circle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_repeat_one_white_circle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_np_card.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/np_card.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_item_list_no_image.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/item_list_no_image.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_assignment_turned_in_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_assignment_turned_in_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_mini_player.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_mini_player.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_sub_header_material.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/sub_header_material.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/xml_automotive_app_desc.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/xml/automotive_app_desc.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_border_top_separator_rounded.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/border_top_separator_rounded.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-anydpi-v26_ic_music.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-anydpi-v26/ic_music.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_shadow_statusbar_toolbar.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/shadow_statusbar_toolbar.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_app_shortcut_last_added.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_app_shortcut_last_added.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/xml_provider_paths.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_folder_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_folder_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_favorite_border_white_nocircle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_favorite_border_white_nocircle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_skip_next_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_skip_next_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xxhdpi_ic_music_round.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xxhdpi/ic_music_round.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_item_list.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/item_list.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xhdpi_ic_music_foreground.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xhdpi/ic_music_foreground.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_shadow_up.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/shadow_up.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-hdpi_ic_music.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-hdpi/ic_music.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_artist_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_artist_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_scanner_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_scanner_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_album_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_album_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_playlist_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_playlist_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_toolbar_gradient.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/toolbar_gradient.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_dialog_sleep_timer.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/dialog_sleep_timer.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-mdpi_ic_music_round.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-mdpi/ic_music_round.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_file_music_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_file_music_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_rect_selector.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/rect_selector.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_item_grid_card_horizontal.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/item_grid_card_horizontal.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxhdpi_ic_drag_vertical_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxhdpi/ic_drag_vertical_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_search.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-hdpi_default_album_art.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-hdpi/default_album_art.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_info_outline_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_info_outline_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_scrollbar_vertical_track.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/scrollbar_vertical_track.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_artist_detail_header.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/artist_detail_header.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_card_contributors.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/card_contributors.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-anydpi-v26_ic_music_round.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-anydpi-v26/ic_music_round.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_sliding_music_panel_layout.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/sliding_music_panel_layout.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-hdpi_ic_music_foreground.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-hdpi/ic_music_foreground.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_access_time_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_access_time_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_flat_player.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_flat_player.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_app_widget_card.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/app_widget_card.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_search_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-hdpi_ic_music_round.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-hdpi/ic_music_round.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_rect_selector_strong_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/rect_selector_strong_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_preference_dialog_now_playing_screen.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/preference_dialog_now_playing_screen.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_rect_selector_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/rect_selector_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_round_selector_mask.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/round_selector_mask.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_library_add_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_library_add_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_widget_selector_light.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/widget_selector_light.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_main.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-mdpi_default_album_art.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-mdpi/default_album_art.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_playlists_songs_selection.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_playlists_songs_selection.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_navigation_drawer_header.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/navigation_drawer_header.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_app_widget_classic.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/app_widget_classic.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_close_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_favorite_white_circle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_favorite_white_circle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_card_player_playback_controls.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_card_player_playback_controls.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xhdpi_default_album_art.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xhdpi/default_album_art.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_widget_selector_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/widget_selector_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_smart_playlist.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_smart_playlist.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_favorite_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_favorite_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_shadow_up_strong.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/shadow_up_strong.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_main_activity_recycler_view.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_main_activity_recycler_view.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_round_selector.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/round_selector.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_directory.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_directory.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_playlist_add_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_playlist_add_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_app_widget_big.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/app_widget_big.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_default_artist_image.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/default_artist_image.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xhdpi_ic_music_round.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xhdpi/ic_music_round.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_tutorial_rearrange_queue.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/tutorial_rearrange_queue.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_sub_header.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/sub_header.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-mdpi_ic_music.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-mdpi/ic_music.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_rect_selector_strong.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/rect_selector_strong.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_shuffle_white_nocircle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_shuffle_white_nocircle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_widget_selector_light.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/widget_selector_light.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_search.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_search.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_shadow_down_strong.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/shadow_down_strong.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_menu_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_menu_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_playing_queue_song.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_playing_queue_song.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_album_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_album_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_watch_later_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_watch_later_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_playlist.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_playlist.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_timer_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_timer_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_genre_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_genre_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xhdpi_ic_music.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xhdpi/ic_music.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_more_vert_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_more_vert_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_main_drawer_layout.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_main_drawer_layout.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_player_album_cover.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_player_album_cover.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xxxhdpi_ic_music_foreground.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xxxhdpi/ic_music_foreground.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_save_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_save_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_bookmark_music_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_bookmark_music_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_album_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_album_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_bug_report_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_bug_report_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_bottom_sheet_button_list.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/bottom_sheet_button_list.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_slider_thumb.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/slider_thumb.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_delete_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_widget_selector_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/widget_selector_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_rect_selector_strong_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/rect_selector_strong_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_music_note_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_music_note_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_card_player.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_card_player.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_rect_selector_strong.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/rect_selector_strong.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_rect_selector.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/rect_selector.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_preferences.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_preferences.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_default_album_art.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/default_album_art.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_item_list_single_row.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/item_list_single_row.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_app_shortcut_shuffle_all.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_app_shortcut_shuffle_all.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_notification_selector.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/notification_selector.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_restore_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_restore_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_main_content.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_main_content.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_trending_up_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_trending_up_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_repeat_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_repeat_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_item_grid.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/item_grid.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_music_background.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_music_background.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_status_bar.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/status_bar.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_card_support_development.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/card_support_development.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_folder.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_folder.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_shuffle_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_shuffle_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_notification.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/notification.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_file.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_file.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/xml_allowed_media_browser_callers.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/xml/allowed_media_browser_callers.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_app_widget_small.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/app_widget_small.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_round_selector_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/round_selector_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_playlist_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_playlist_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_player.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_player.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xxxhdpi_ic_music.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xxxhdpi/ic_music.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_round_selected.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/round_selected.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_redo_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_redo_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_shuffle_white_circle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_shuffle_white_circle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_event_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_event_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_artist_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_artist_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_bread_crumb.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/bread_crumb.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxhdpi_default_album_art.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxhdpi/default_album_art.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_queue_music_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_queue_music_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_border_top_separator.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/border_top_separator.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_round_selector_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/round_selector_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xhdpi_default_artist_image.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xhdpi/default_artist_image.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-mdpi_default_artist_image.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-mdpi/default_artist_image.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_favorite_border_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_favorite_border_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_library_music_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_library_music_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xxhdpi_ic_music_foreground.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xxhdpi/ic_music_foreground.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_playlist_play_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_playlist_play_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_cannot_delete_single_songs_playlist_songs_selection.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_cannot_delete_single_songs_playlist_songs_selection.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xxhdpi_ic_music.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xxhdpi/ic_music.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_description_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_description_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_select_all_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_select_all_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-xxxhdpi_ic_music_round.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-xxxhdpi/ic_music_round.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_comment_text_outline_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_comment_text_outline_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_genre_detail.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_genre_detail.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_playlist_song.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_playlist_song.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_media_selection.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_media_selection.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_folders.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_folders.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_drag_vertical_material_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_drag_vertical_material_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_repeat_white_circle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_repeat_white_circle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_scrollbar_vertical_thumb.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_drawer.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_app_shortcut_top_tracks.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_app_shortcut_top_tracks.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_notification_selector.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/notification_selector.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_library.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_library.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_person_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_person_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_keyboard_arrow_right_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_keyboard_arrow_right_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_preference_now_playing_screen_item.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/preference_now_playing_screen_item.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_round_selected_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/round_selected_dark.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_repeat_white_nocircle_48dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_repeat_white_nocircle_48dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_repeat_one_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_repeat_one_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_playlists_selection.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_playlists_selection.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_skip_previous_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_skip_previous_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxhdpi_default_artist_image.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxhdpi/default_artist_image.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_dialog_file_details.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/dialog_file_details.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_app_shortcut_background.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_app_shortcut_background.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_play_arrow_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_play_arrow_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_round_selector.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/round_selector.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_cannot_delete_single_songs_playlist_song.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_cannot_delete_single_songs_playlist_song.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_activity_album_tag_editor.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/activity_album_tag_editor.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_flat_player_playback_controls.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_flat_player_playback_controls.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_preference_dialog_library_categories.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/preference_dialog_library_categories.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_notification_big.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/notification_big.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/mipmap-mdpi_ic_music_foreground.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/mipmap-mdpi/ic_music_foreground.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-xxxhdpi_np_flat.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-xxxhdpi/np_flat.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_shadow_down.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/shadow_down.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/layout_fragment_album_cover.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/layout/fragment_album_cover.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable_ic_people_white_24dp.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable/ic_people_white_24dp.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/menu_menu_item_song.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/menu/menu_item_song.xml"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-hdpi_default_artist_image.png.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-hdpi/default_artist_image.png"
+    },
+    {
+        "merged": "com.poupa.vinylmusicplayer.app-merged_res-57:/drawable-v21_rect_selector_dark.xml.flat",
+        "source": "com.poupa.vinylmusicplayer.app-main-61:/drawable-v21/rect_selector_dark.xml"
+    }
+]
